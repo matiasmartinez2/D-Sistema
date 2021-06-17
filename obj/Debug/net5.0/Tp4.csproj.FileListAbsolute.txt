@@ -1,0 +1,16 @@
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\bin\Debug\net5.0\Tp4.exe
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\bin\Debug\net5.0\Tp4.deps.json
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\bin\Debug\net5.0\Tp4.runtimeconfig.json
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\bin\Debug\net5.0\Tp4.runtimeconfig.dev.json
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\bin\Debug\net5.0\Tp4.dll
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\bin\Debug\net5.0\ref\Tp4.dll
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\bin\Debug\net5.0\Tp4.pdb
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.csproj.AssemblyReference.cache
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.AssemblyInfoInputs.cache
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.AssemblyInfo.cs
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.csproj.CoreCompileInputs.cache
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.dll
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\ref\Tp4.dll
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.pdb
+C:\Users\PC Gamer\Desktop\c#\1- Diseño de sistema\Tp4\obj\Debug\net5.0\Tp4.genruntimeconfig.cache
